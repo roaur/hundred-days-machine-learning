@@ -1,3 +1,5 @@
 Day 1 - August 22, 2018 - Aurelion Geron Hands-On Machine Learning with Scikit-Learn & TensorFlow (parts of chapters 1 and 2)
 Day 2 - August 23, 2018 - An Introduction to Statistical Learning (Chapter 1 and 2 - Flexibility and Interpretability and installing R for Jupyter Lab)
 Day 3 - August 24, 2018 - ISLR - Bias-Variance Trade-off & beginning R
+
+Week 1 - Reading Chapter 2 Introduction to Statistical Learning and Stanford Videos/Quizzes 
